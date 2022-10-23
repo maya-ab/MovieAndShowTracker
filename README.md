@@ -3,7 +3,7 @@
 ## Movie and TV Show Tracker
 
 This application will allow users to record and keep track of the movies and TV shows they watch. 
-They'll also have the option of having a *Meaning to Watch*  list, where they can list what they 
+They'll also have the option of having a *Wanting to Watch*  list, where they can list what they 
 want to watch in the future.
 This app is for people who love watching movies and TV, and who would like to have the opportunity
 to look back and see everything they've watched listed in one place. As well as to remeber what they have been 
