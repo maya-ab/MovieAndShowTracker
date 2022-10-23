@@ -1,0 +1,13 @@
+{
+  "wantToWatch": [
+    {
+      "title": "movie1",
+      "type": "movie"
+    },
+    {
+      "title": "show1",
+      "type": "show"
+    }
+  ],
+  "name": "My work room"
+}

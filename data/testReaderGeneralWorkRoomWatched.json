@@ -1,0 +1,17 @@
+{
+  "watched": [
+    {
+      "title": "movie1",
+      "type": "movie",
+      "rating": 9,
+      "note": "Good"
+    },
+    {
+      "title": "show1",
+      "type": "show",
+      "rating": 8,
+      "note": "Ok"
+    }
+  ],
+  "name": "My work room"
+}
