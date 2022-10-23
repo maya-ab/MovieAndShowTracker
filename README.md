@@ -24,12 +24,8 @@ of interest to me.
 - As a user, I want to be able to add movies and TV shows I've watched to my "Watched" list
 - As a user, I want to be able to add movies and TV shows I plan to watch to my "Want to Watch" list
 - As a user, I want to be able to rate and leave a note for each Movie and TV show on my "Watched" list 
-- As a user, I want to be able to mark a movie or TV show on my "Want to Watch" as watched, which will remove it
- from that list and add it to my "Watched list"
-- As a user, I want to be able to view each TV show and Movie on my "Watched" list in detail
 - As a user, I want to be able to view a list of all the titles in my "Watched" list
 - As a user, I want to be able to view a list of all the titles in my "Want to Watch" list
 - As a user I want to be able to save my "Want to Watch" list to file
 - As a user I want to be able to load my "Want to Watch" list from file
 
-Phase 4 Task: Made Media class Robust
