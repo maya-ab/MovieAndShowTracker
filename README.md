@@ -10,14 +10,13 @@ to look back and see everything they've watched listed in one place. As well as 
 meaning to watch.  
 
 
-My friends and I watch a lot of  movies and TV shows and we always ask or say to each other things like:
-- "You have to watch this movie/show!""
-- "Have you seen this movie/show?"
-- "What did you think of this movie/show?"
+My friends and I watch a lot of  movies and TV shows and we always say to things like:
+- "You have to watch this movie!""
+- "Have you seen this show?"
+- "What did you think of this movie?"
 
-From this I noticed that it can get **difficult** keeping track of all the movie/show recommendations, or what you thought of an old
-show/movie, or if you had even seen it. This application is a solution for these problems, which even I deal with, and that is why it is
-of interest to me.
+From this I noticed that it can get difficult keeping track of all the movie/show recommendations you get, or what you thought of an old
+show/movie you watched , etc... This application is a solution for these problems.
 
 ## User Stories 
 
@@ -29,3 +28,4 @@ of interest to me.
 - As a user I want to be able to save my "Want to Watch" list to file
 - As a user I want to be able to load my "Want to Watch" list from file
 
+<img width="1048" alt="Screen Shot 2022-10-17 at 9 28 00 PM" src="https://user-images.githubusercontent.com/115958445/197436314-ae993f01-a9fd-4341-aca5-5e91c6cc5d06.png">
