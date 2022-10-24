@@ -28,4 +28,4 @@ show/movie you watched , etc... This application is a solution for these problem
 - As a user I want to be able to save my "Want to Watch" list to file
 - As a user I want to be able to load my "Want to Watch" list from file
 
-<img width="1048" alt="Screen Shot 2022-10-17 at 9 28 00 PM" src="https://user-images.githubusercontent.com/115958445/197436314-ae993f01-a9fd-4341-aca5-5e91c6cc5d06.png">
+<img width="500" alt="Screen Shot 2022-10-17 at 9 28 00 PM" src="https://user-images.githubusercontent.com/115958445/197436314-ae993f01-a9fd-4341-aca5-5e91c6cc5d06.png">
